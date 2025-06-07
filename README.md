@@ -1,1 +1,1 @@
-My first readme
+‘This is second readme inside git folder’
